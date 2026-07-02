@@ -32,7 +32,7 @@ Software Engineer · Problem Solver · Builder
 
 I am a Computer Science student at IIIT Delhi with a broad foundation across software engineering, systems, algorithms, and applied AI. I enjoy working on problems that span multiple layers of a stack — from writing optimisation algorithms and hardware interfaces to building full-featured mobile applications with cloud backends.
 
-I have worked across Android development, network systems, robotics scheduling, game theory algorithms, and AI integration. My goal is always to build something complete and correct — not just a prototype.
+I have worked across Android development, network systems, robotics scheduling, game theory algorithms, and AI integration. My goal is always to build something complete and correct — not just a prototype and to build to solve real world problems.
 
 ---
 
